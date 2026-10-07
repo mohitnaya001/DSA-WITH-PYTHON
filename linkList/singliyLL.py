@@ -58,7 +58,7 @@ class singliyLL:
 obj = singliyLL()
 obj.insertAtEnd(10)
 obj.insertAtEnd(40)
-obj.insertAtEnd(30)
+
 obj.insertAtbag(50)
 obj.inserAtMid(20,10)
 obj.deleteLL(30)
